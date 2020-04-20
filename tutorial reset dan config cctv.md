@@ -1,39 +1,44 @@
-##BAHASA MARKDOWN DENGAN MENGGUNAKAN APLIKASI MARKDOWN PAD2##
 
-----------
+# Tutorial Reset dan Konfigurasi IP kamera cctv hikvision model DS-2CD2121G0-I
 
-Aplikasi *MarkDown* editor banyak sekali, diantaranya adalah Typora, Inkdrop, Visual Studio Code, Sublime Text, Notepad++, Atom, Haroopod, Markdown Master, Coret, MarkDownPad 2 dan lain-lain.
+Tahap Reset
+Pertama yang harus disipakan :
+1.	Tentunya CCTV yang akan direset
+![cctv](https://drive.google.com/open?id=1fkniInouo7Kcr4XsL8XkZkCbVgkd1KLR/view)
 
-
->Bahasa *Markdown* dimaksudkan sebagai format untuk menulis di Web agar mudah dibaca dan mudah ditulis sebagaimana layaknya bahasa pemrograman lainnya.
-
-Penulisan dengan bahasa MarkDown secara umum berisi text biasa, untuk merubah format tulisan menggunakan tanda tag.
-Sintak penulisan *MarkDown* dipengaruhi bahasa html* termasuk setext, at, textile, restructuredtext, grutatext dan ettext. satu-satu nya sumber inspirasi sintaks MarkDown terbesar adalah format email text biasa.
-
-*MarkDown* bukan menggantikan *HTML. **MarkDown* lebih fokus kepada bagaimana text dengan mudah dibaca dan ditulis. Bila perintah di *MarkDown* tidak ada, maka cukup meminjam perintah *HTML* menggunakan TAG *HTML*.
-
-
-    Bahasa HTML dalam merubah format memiliki ciri ada tanda karakter khusus 
-    yakni < dan & misalkan <B> atau &nbsp;. Akibatnya akan muncul kebingunan  
-    bila tidak biasa membaca text dengan format HTML. 
-    Jadi jika mau meulis 'AT&T' menggunakan bahasa HTML cara menulisnya: 
-    'AT&amp;T', artinya setiap ada karakter & harus ditulis &amp;.
-
->Pada bahasa *MarkDown* tidak perlu khawatir simbil & karena akan dikenal, jadi menulis AT&T tetap tulis seperti itu saja, beda dengan HTML
+2.	PoE injector
+ 
+3.	Power Supply/adaptop PoE injector
+ 
+4.	Kabel kabel Lan 2 buah
+ 
+5.	Laptop
+ 
+6.	Aplikasi SADP Tools [link](https://www.hikvision.com/en/support/tools/destop-tools/sadp-for-windows/ "Pergi ke download hikvision.com")
 
 
-## Improve
-
-pada markdown jg dapat melampirkan link, contoh :
-
-[link](https://www.google.com/ "Pergi ke google.com")
-
-
-makrdown jg dapat membuat to do list, contoh :
-
-**Tugas hari ini:**
-
-- [x] belajar markdown
-- [ ] belajar git
-- [ ] belajar bahasa pemograman php
-- [x] membuat form dengan php
+Langkah reset dan konfigurasi IP Kamera CCTV
+1.	Buka casing CCTV terlebih dahulu
+ 
+2.	Sambungkan 1 kabel Lan ke laptop (sisi Lan IN)
+ 
+3.	Sambungkan 1 kabel Lan Ke CCTV (sisis Lan Out)
+ 
+4.	Ketika menyambungkan kabel lan ke CCTV tekan tombol reset, dan tahan beberapa detik
+ 
+ 
+5.	Kemudian buka Aplikasi SADP Tools untuk cek CCTV yg terhubung
+ 
+6.	Terlihat 1 cctv dalam statu Inactive. Ini menunjukan proses reset telah berhasil. 
+7.	Selanjutnya ceklis Kamera yang akan kita setting IP nya. Kerna statusnya inactive akan keluar seperti ini.   
+8.	Masukan password dan konfirmasi password, kemudian klik activate
+ 
+9.	Setelah itu lakukan konfigurasi pada sisi kanan pada IP dan konfigurasi lainya
+  
+10.	Kemudian masukan admin password dan klik modify
+  
+11.	Sekarang buka internet explorer untuk mengecek apakah sudah bisa terhubung ke ip kamera yang barusan kita ganti
+ 
+12.	Kemudian login untuk mengecek kondisi kamera
+ 
+13.	Proses reset dan konfigurasi IP selesai

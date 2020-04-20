@@ -23,7 +23,7 @@ Langkah reset dan konfigurasi IP Kamera CCTV
 3.	Sambungkan 1 kabel Lan Ke CCTV (sisis Lan Out)
 >![cctv](https://github.com/syamrizal88/SyamrizalTutorial/blob/master/8.png)
 4.	Ketika menyambungkan kabel lan ke CCTV tekan tombol reset, dan tahan beberapa detik
-![cctv](https://github.com/syamrizal88/SyamrizalTutorial/blob/master/10.png)
+>![cctv](https://github.com/syamrizal88/SyamrizalTutorial/blob/master/10.png)
 >![cctv](https://github.com/syamrizal88/SyamrizalTutorial/blob/master/9.png) 
 5.	Kemudian buka Aplikasi SADP Tools untuk cek CCTV yg terhubung
 >![cctv](https://github.com/syamrizal88/SyamrizalTutorial/blob/master/11.png)

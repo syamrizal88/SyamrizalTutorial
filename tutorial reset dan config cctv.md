@@ -4,12 +4,17 @@
 Tahap Reset
 Pertama yang harus disipakan :
 1.	Tentunya CCTV yang akan direset
-![cctv](https://github.com/syamrizal88/SyamrizalTutorial/blob/master/1.png)
+     ![cctv](https://github.com/syamrizal88/SyamrizalTutorial/blob/master/1.png)
+
 
 2.	PoE injector
- 
+     ![cctv](https://github.com/syamrizal88/SyamrizalTutorial/blob/master/2.png)
+
+
 3.	Power Supply/adaptop PoE injector
- 
+    ![cctv](https://github.com/syamrizal88/SyamrizalTutorial/blob/master/3.png)
+
+
 4.	Kabel kabel Lan 2 buah
  
 5.	Laptop

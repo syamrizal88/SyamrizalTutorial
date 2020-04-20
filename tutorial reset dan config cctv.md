@@ -4,7 +4,7 @@
 Tahap Reset
 Pertama yang harus disipakan :
 1.	Tentunya CCTV yang akan direset 
-    ![cctv](https://github.com/syamrizal88/SyamrizalTutorial/blob/master/1.png)
+>>![cctv](https://github.com/syamrizal88/SyamrizalTutorial/blob/master/1.png)
 
 
 2.	PoE injector

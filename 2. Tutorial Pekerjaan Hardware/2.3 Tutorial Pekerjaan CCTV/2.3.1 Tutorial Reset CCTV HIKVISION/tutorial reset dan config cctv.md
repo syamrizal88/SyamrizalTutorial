@@ -4,7 +4,7 @@
 Tahap Reset
 Pertama yang harus disipakan :
 1.	Tentunya CCTV yang akan direset 
->![cctv](https://github.com/syamrizal88/SyamrizalTutorial/blob/master/2. Tutorial Pekerjaan Hardware/2.3 Tutorial Pekerjaan CCTV/2.3.1 Tutorial Reset CCTV HIKVISION/l1.png)
+>![cctv](https://raw.githubusercontent.com/syamrizal88/SyamrizalTutorial/master/2.%20Tutorial%20Pekerjaan%20Hardware/2.3%20Tutorial%20Pekerjaan%20CCTV/2.3.1%20Tutorial%20Reset%20CCTV%20HIKVISION/1.png)
 2.	PoE injector
 >![cctv](https://github.com/syamrizal88/SyamrizalTutorial/blob/master/2.png)
 3.	Power Supply/adaptop PoE injector
